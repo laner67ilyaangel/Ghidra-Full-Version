@@ -242,3 +242,6 @@ This repository serves as the official landing page for Ghidra. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Ghidra today!**
+
+---
+**Last updated:** 2026-09-10 08:52:36 UTC
