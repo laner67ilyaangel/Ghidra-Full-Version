@@ -244,4 +244,4 @@ This repository serves as the official landing page for Ghidra. The software is 
 **Get the most recent version of Ghidra today!**
 
 ---
-**Last updated:** 2026-10-24 20:35:24 UTC
+**Last updated:** 2026-10-24 23:03:32 UTC
